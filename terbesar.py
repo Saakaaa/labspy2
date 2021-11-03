@@ -13,7 +13,8 @@ def main():
             maks = a
     else:
         if b > c:
-            maks = b
+            if b > a:
+                maks = b
         else:
             maks = c
         
