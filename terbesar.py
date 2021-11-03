@@ -1,6 +1,6 @@
 def main():
     #cetak judul program
-    print("Menentukan Nilai Maksimum dua bilangan")
+    print("Menentukan Nilai Maksimum tiga bilangan")
 
     #input user
     a = int(input("masukkan bilangan pertama: ",))
